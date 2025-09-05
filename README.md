@@ -22,4 +22,6 @@ The dataset includes:
 ## Outcomes  
 - Reduced treatment costs while maintaining or improving patient recovery  
 - Efficient resource planning during high admission periods  
-- Tailored treatment strategies based on patient age and recovery trends  
+- Tailored treatment strategies based on patient age and recovery trends
+- 
+<img width="2164" height="1218" alt="dashboard" src="https://github.com/user-attachments/assets/38f73f6a-67e2-4216-a472-984bfe56016a" />
